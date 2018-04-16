@@ -1,0 +1,24 @@
+{
+  "name": "18-04--07",
+  "version": "1.0.0",
+  "description": "quarterly 18年某个季度，三个月项目实践内容整理、记录！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/china2015wyp/18-04--07.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/china2015wyp/18-04--07/issues"
+  },
+  "homepage": "https://github.com/china2015wyp/18-04--07#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1",
+    "zepto": "^1.2.0"
+  }
+}
